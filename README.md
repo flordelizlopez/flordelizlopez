@@ -20,9 +20,6 @@ I enjoy bridging the gap between business stakeholders and technical teams, usin
 ## 🛠 Applications & Tools
 
 ### 📋 Project & Work Management
-## 🛠 Applications & Tools
-
-### 📋 Project & Work Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
