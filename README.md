@@ -39,3 +39,6 @@ I’m passionate about building data-driven insights and collaborating on impact
 
 - LinkedIn: https://linkedin.com/in/flordelizlopez
 - Email: msflordelizlopez@gmail.com
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
