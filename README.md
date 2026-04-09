@@ -83,7 +83,7 @@ I enjoy bridging the gap between business stakeholders and technical teams, usin
 
 ## 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=flordelizlopez&show_icons=true&hide_title=true
+https://github-readme-stats.vercel.app/api?username=flordelizlopez&show_icons=true
 
 ---
 
